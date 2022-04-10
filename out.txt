@@ -1,0 +1,9 @@
+Betty Boop: [90.0, 15.000001, 10.0, 10.0]= ISTJ
+Snoopy: [30.000002, 45.0, 30.000002, 70.0]= ESTP
+Bugs Bunny: [20.0, 45.0, 15.000001, 55.0]= ESTP
+Daffy Duck: [100.0, 5.882353, 20.0, 5.555556]= ISTJ
+The frumious bandersnatch: [85.71429, 95.0, 75.0, 77.77778]= INFP
+Minnie Mouse: [66.66667, 27.777779, 31.578945, 5.263158]= ISTJ
+Luke Skywalker: [88.88889, 61.11111, 26.31579, 25.0]= INTJ
+Han Solo: [80.0, 50.0, 45.0, 25.0]= IXTJ
+Princess Leia: [80.0, 50.0, 50.0, 5.0]= IXXJ
